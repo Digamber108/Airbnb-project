@@ -5,7 +5,7 @@
           container: "map", // container ID
           style: "mapbox://styles/mapbox/streets-v12",// style URL
           center:listing.geometry.coordinates, // starting position [lng, lat]
-          zoom:1  // starting zoom
+          zoom:4 // starting zoom
       });
 
 
